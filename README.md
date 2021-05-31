@@ -41,3 +41,23 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
     4. Some form of lightweight technical documentation (code comments are fine)
 6. When complete, email a link to the repository and any special instructions to hr@fooddarzee.com
 7. Sit back and relax. We'll review your submission and get back to you within 72 hours
+
+## How we review
+Your task will be reviewed by one of our developers. We do take into consideration your experience level
+
+**We value quality over feature-completness.** It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
+
+The aspects of your code we will assess include:
+
+* Architecture: How clean the code is and the project structure
+* Clarity: does the README clearly and concisely explains the problem and solution? Are technical tradeoffs explained?
+* Correctness: does the application do what was asked? If there is anything missing, does the README explain why it is missing?
+* Code quality: is the code simple, easy to understand, and maintainable? Are there any code smells or other red flags? Does object-oriented code follows principles such as the single responsibility principle? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
+* Security: are there any obvious vulnerability?
+* Technical choices: do choices of libraries, databases, architecture etc. seem appropriate for the chosen application?
+
+Bonus point (those items are optional):
+
+* UX: is the web interface understandable and pleasing to use? Is the API intuitive?
+* Scalability: will technical choices scale well? If not, is there a discussion of those choices in the README?
+* Production-readiness: does the code include monitoring? logging? proper error handling?

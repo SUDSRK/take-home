@@ -19,21 +19,21 @@ The goal of this exercise is to design a page which is responsive and follow the
 
 #### User Story: As a developer I want to
 
-    * Create form with the following inputs
-        * Grid size (eg. 3x3,8x8, 2x3 etc)
-        * Submit button
-    * Generate a grid with the inputs mentioned by the user
-        * Each box in the grid should have random colors
-        * Each box should have centered icons/images (Fontawesome, Material icons, etc)
-    * Actions for the user
-        * The icons/images in the boxes should be draggable
-        * Dropping the icon into other box should swap the icons/images
-        * The icon/image should not go out of bounds
+* Create form with the following inputs
+    * Grid size (eg. 3x3,8x8, 2x3 etc)
+    * Submit button
+* Generate a grid with the inputs mentioned by the user
+    * Each box in the grid should have random colors
+    * Each box should have centered icons/images (Fontawesome, Material icons, etc)
+* Actions for the user
+    * The icons/images in the boxes should be draggable
+    * Dropping the icon into other box should swap the icons/images
+    * The icon/image should not go out of bounds
 
 ### Some notes while submitting your work
 
-    * Make sure the application is responsive
-    * Design is very important. Be as creative as possible
+* Make sure the application is responsive
+* Design is very important. Be as creative as possible
 
 ## Submitting your work
 1. See [instructions for submitting your work](https://github.com/FoodDarzee/take-home#general-instructions)
