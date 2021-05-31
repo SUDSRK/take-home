@@ -1,6 +1,6 @@
 # Take-home Tasks for Food Darzee
 ___
-Hello if you have received this test or stumbled upon it then we're likely in the process chatting with you about a Developer role at Food Darzee, or your interested in working with us.
+Hello if you have received this test or stumbled upon it then we're likely in the process chatting with you about a Developer role at Food Darzee, or you are interested in working with us.
 
 In order to move forward, we'd like to know a little about how you work. This contains a set of instructions that can demonstrate your skills and abilities.
 
@@ -39,5 +39,5 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
     2. A ROADMAP.md with what you would add/change if you had more time. Dream big.
     3. A super-simple test suite if applicable (even one test is a bonus)
     4. Some form of lightweight technical documentation (code comments are fine)
-6. When complete email a link to the repository and any special instructions to hr@fooddarzee.com
+6. When complete, email a link to the repository and any special instructions to hr@fooddarzee.com
 7. Sit back and relax. We'll review your submission and get back to you within 72 hours
