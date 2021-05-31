@@ -1,2 +1,2 @@
-# Food Darzee Backend-focused Product Exercise
+# Food Darzee Frontend-focused Product Exercise
 ___
