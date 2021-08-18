@@ -14,7 +14,7 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
 
 * These tasks allow you to show off your skills at a time/place that works for you.
 * Take-home tasks allow you to work at your own pace. We intentionally structure these to take around 8-12ish hours of time and ask that you limit your investment to no more than the suggested time, however you are free to break this into as many sessions as you wish.
-* It matches the nature of our work. Most of being an engineer on a remote team is self-directed exploration of a problem, followed by period(s) of cyclic work/edit/review, followed by submission for review and approval by your peers. Async tasks allow you to do the same.
+* It matches the nature of our work. Most being an engineer on a remote team is self-directed exploration of a problem, followed by period(s) of cyclic work/edit/review, followed by submission for review and approval by your peers. Async tasks allow you to do the same.
 * It eliminates the performance anxiety of forced-pairing with someone whom you've just met.
 * It allows you to use the tools, languages, and frameworks where you are the most productive.
 
@@ -26,7 +26,7 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
     * [backend](backend/README.md)
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [GitHub Issues](https://github.com/FoodDarzee/take-home/issues) or by emailing hr@fooddarzee.com
 3. Create a new **private repository** for your exercise and add [Wenceslaus Dsilva](https://github.com/deadmantfa) as private collaborators.
-4. Complete as much of the exercise as you can in 8-12 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be PHP, Python, Javascript, and SQL (purely because those are the languages we use to build Food Darzee and will be the most familiar with)
+4. Complete as much of the exercise as you can in 8-12 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be PHP, Python, Javascript, and SQL (purely because those are the languages we used to build Food Darzee and will be the most familiar with)
 5. Be sure to include the following in your submission 
     1. A `README.md` with the following information
         1. **A few screenshots of the finished product.** Show off that work!
@@ -45,7 +45,7 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
 ## How we review
 Your task will be reviewed by one of our developers. We do take into consideration your experience level
 
-**We value quality over feature-completness.** It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
+**We value quality over feature-completeness.** It is fine to leave things aside provided you call them out in your project's README. The goal of this code sample is to help us identify what you consider production-ready code. You should consider this code ready for final review with your colleague, i.e. this would be the last step before deploying to production.
 
 The aspects of your code we will assess include:
 
