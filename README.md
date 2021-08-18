@@ -22,8 +22,8 @@ The primary reasons we ask candidates of all levels to complete these tasks are 
 ## General Instructions
 
 1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the highest degree of mastery
-    * [frontend](frontend/instructions.md)
-    * [backend](backend/instructions.md)
+    * [frontend](frontend/README.md)
+    * [backend](backend/README.md)
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [GitHub Issues](https://github.com/FoodDarzee/take-home/issues) or by emailing hr@fooddarzee.com
 3. Create a new **private repository** for your exercise and add [Wenceslaus Dsilva](https://github.com/deadmantfa) as private collaborators.
 4. Complete as much of the exercise as you can in 8-12 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be PHP, Python, Javascript, and SQL (purely because those are the languages we use to build Food Darzee and will be the most familiar with)
