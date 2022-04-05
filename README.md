@@ -1,6 +1,6 @@
 # Take-home Tasks for Food Darzee
 ___
-Hello if you have received this test or stumbled upon it then we're likely in the process chatting with you about a Developer role at Food Darzee, or you are interested in working with us.
+Hello, If you have received this test or stumbled upon it then we're likely in the process chatting with you about a Developer role at Food Darzee, or you are interested in working with us.
 
 In order to move forward, we'd like to know a little about how you work. This contains a set of instructions that can demonstrate your skills and abilities.
 
